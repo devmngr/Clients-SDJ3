@@ -1,0 +1,7 @@
+C:\Users\maria\DNP\MathLib\Clients\bin\Debug\Clients.exe.config
+C:\Users\maria\DNP\MathLib\Clients\bin\Debug\Clients.exe
+C:\Users\maria\DNP\MathLib\Clients\bin\Debug\Clients.pdb
+C:\Users\maria\DNP\MathLib\Clients\obj\Debug\Clients.csprojResolveAssemblyReference.cache
+C:\Users\maria\DNP\MathLib\Clients\obj\Debug\Clients.csproj.CoreCompileInputs.cache
+C:\Users\maria\DNP\MathLib\Clients\obj\Debug\Clients.exe
+C:\Users\maria\DNP\MathLib\Clients\obj\Debug\Clients.pdb

@@ -1,0 +1,7 @@
+C:\Users\maria\DNP\MathLib\PackingClient\bin\Debug\PackingClient.exe.config
+C:\Users\maria\DNP\MathLib\PackingClient\bin\Debug\PackingClient.exe
+C:\Users\maria\DNP\MathLib\PackingClient\bin\Debug\PackingClient.pdb
+C:\Users\maria\DNP\MathLib\PackingClient\obj\Debug\PackingClient.csprojResolveAssemblyReference.cache
+C:\Users\maria\DNP\MathLib\PackingClient\obj\Debug\PackingClient.csproj.CoreCompileInputs.cache
+C:\Users\maria\DNP\MathLib\PackingClient\obj\Debug\PackingClient.exe
+C:\Users\maria\DNP\MathLib\PackingClient\obj\Debug\PackingClient.pdb

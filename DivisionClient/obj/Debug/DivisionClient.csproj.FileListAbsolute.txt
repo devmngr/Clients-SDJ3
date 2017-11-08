@@ -1,0 +1,6 @@
+C:\Users\maria\DNP\MathLib\DivisionClient\bin\Debug\DivisionClient.exe.config
+C:\Users\maria\DNP\MathLib\DivisionClient\bin\Debug\DivisionClient.exe
+C:\Users\maria\DNP\MathLib\DivisionClient\bin\Debug\DivisionClient.pdb
+C:\Users\maria\DNP\MathLib\DivisionClient\obj\Debug\DivisionClient.csproj.CoreCompileInputs.cache
+C:\Users\maria\DNP\MathLib\DivisionClient\obj\Debug\DivisionClient.exe
+C:\Users\maria\DNP\MathLib\DivisionClient\obj\Debug\DivisionClient.pdb

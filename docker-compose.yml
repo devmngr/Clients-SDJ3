@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  divisionclient:
+    image: divisionclient
+    build:
+      context: .\DivisionClient
+      dockerfile: Dockerfile

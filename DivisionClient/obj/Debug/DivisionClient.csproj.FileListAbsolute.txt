@@ -4,3 +4,10 @@ C:\Users\maria\DNP\MathLib\DivisionClient\bin\Debug\DivisionClient.pdb
 C:\Users\maria\DNP\MathLib\DivisionClient\obj\Debug\DivisionClient.csproj.CoreCompileInputs.cache
 C:\Users\maria\DNP\MathLib\DivisionClient\obj\Debug\DivisionClient.exe
 C:\Users\maria\DNP\MathLib\DivisionClient\obj\Debug\DivisionClient.pdb
+D:\GitHub\Clients-SDJ3\DivisionClient\bin\Debug\DivisionClient.exe.config
+D:\GitHub\Clients-SDJ3\DivisionClient\bin\Debug\DivisionClient.exe
+D:\GitHub\Clients-SDJ3\DivisionClient\bin\Debug\DivisionClient.pdb
+D:\GitHub\Clients-SDJ3\DivisionClient\obj\Debug\DivisionClient.csprojResolveAssemblyReference.cache
+D:\GitHub\Clients-SDJ3\DivisionClient\obj\Debug\DivisionClient.csproj.CoreCompileInputs.cache
+D:\GitHub\Clients-SDJ3\DivisionClient\obj\Debug\DivisionClient.exe
+D:\GitHub\Clients-SDJ3\DivisionClient\obj\Debug\DivisionClient.pdb

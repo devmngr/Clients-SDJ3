@@ -4,3 +4,10 @@ C:\Users\maria\DNP\MathLib\ShopClient\bin\Debug\ShopClient.pdb
 C:\Users\maria\DNP\MathLib\ShopClient\obj\Debug\ShopClient.csproj.CoreCompileInputs.cache
 C:\Users\maria\DNP\MathLib\ShopClient\obj\Debug\ShopClient.exe
 C:\Users\maria\DNP\MathLib\ShopClient\obj\Debug\ShopClient.pdb
+D:\GitHub\Clients-SDJ3\ShopClient\bin\Debug\ShopClient.exe.config
+D:\GitHub\Clients-SDJ3\ShopClient\bin\Debug\ShopClient.exe
+D:\GitHub\Clients-SDJ3\ShopClient\bin\Debug\ShopClient.pdb
+D:\GitHub\Clients-SDJ3\ShopClient\obj\Debug\ShopClient.csprojResolveAssemblyReference.cache
+D:\GitHub\Clients-SDJ3\ShopClient\obj\Debug\ShopClient.csproj.CoreCompileInputs.cache
+D:\GitHub\Clients-SDJ3\ShopClient\obj\Debug\ShopClient.exe
+D:\GitHub\Clients-SDJ3\ShopClient\obj\Debug\ShopClient.pdb

@@ -11,12 +11,24 @@ namespace ShopClient
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Enter the number of infected product : ");
+
+            IWebServer.WebServerPortTypeClient webServer = new IWebServer.WebServerPortTypeClient();
 
 
-            int infectedproduct = Int32.Parse(Console.ReadLine());
+            // Console.WriteLine("Enter the id of the product : ");
 
-            Console.WriteLine("The infected product number is :" + infectedproduct);
+            //  int infectedProduct = Int32.Parse(Console.ReadLine());
+
+
+            int infectedProduct = 6;
+
+            int[] infectedProducts = webServer.getInfectedProducts(infectedProduct);
+
+
+            for (int i = 0; i < infectedProducts.Length; i++)
+
+                Console.WriteLine("infected product: " + infectedProducts[i]);
+
 
 
         }

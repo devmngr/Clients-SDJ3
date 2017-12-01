@@ -4,26 +4,66 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace DivisionClient
 {
     class Program
     {
+
+
+
         static void Main(string[] args)
-        {    // weight of part 
-            Console.WriteLine("Please enter the weight of a part:");
+        {
+            IWebServer.WebServerPortTypeClient webServer = new IWebServer.WebServerPortTypeClient();
 
-            int weight = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine(" The weight of animal is   :" + weight);
+            while (true)
+            {
+                // weight of part 
+                Console.WriteLine("Please enter the weight of a part:");
 
-            // attach to tray 
+                int weight = Int32.Parse(Console.ReadLine());
+                // a.registerAnimal(weight);
 
-            Console.WriteLine("Please select the tray for the part:");
+                Console.WriteLine(" The weight of part is   :" + weight);
+                // attach to tray 
 
-            int tray= Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine(" The part was added to the tray number  :" + tray);
+                Console.WriteLine(" Enter animal ID: ");
+                int animal = Int32.Parse(Console.ReadLine());
 
+
+                Console.WriteLine("Add part to tray; Enter tray ID");
+
+                int tray = Int32.Parse(Console.ReadLine());
+
+
+                Console.WriteLine(" Press: \n0-Cancel\n1-Register part");
+
+
+                int choice = Int32.Parse(Console.ReadLine());
+
+                switch (choice)
+                {
+
+
+                    case 1:
+                        webServer.addTrayContent(tray, animal, weight);
+                        break;
+
+                    default: break;
+
+                }
+
+
+
+                Console.WriteLine(" The part was added to the tray number  :" + tray);
+
+
+
+
+
+            }
         }
     }
 }

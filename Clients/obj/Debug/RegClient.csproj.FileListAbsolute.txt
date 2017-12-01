@@ -1,0 +1,7 @@
+D:\GitHub\Clients-SDJ3\Clients\bin\Debug\Clients.exe.config
+D:\GitHub\Clients-SDJ3\Clients\bin\Debug\Clients.exe
+D:\GitHub\Clients-SDJ3\Clients\bin\Debug\Clients.pdb
+D:\GitHub\Clients-SDJ3\Clients\obj\Debug\RegClient.csprojResolveAssemblyReference.cache
+D:\GitHub\Clients-SDJ3\Clients\obj\Debug\RegClient.csproj.CoreCompileInputs.cache
+D:\GitHub\Clients-SDJ3\Clients\obj\Debug\Clients.exe
+D:\GitHub\Clients-SDJ3\Clients\obj\Debug\Clients.pdb

@@ -5,3 +5,10 @@ C:\Users\maria\DNP\MathLib\PackingClient\obj\Debug\PackingClient.csprojResolveAs
 C:\Users\maria\DNP\MathLib\PackingClient\obj\Debug\PackingClient.csproj.CoreCompileInputs.cache
 C:\Users\maria\DNP\MathLib\PackingClient\obj\Debug\PackingClient.exe
 C:\Users\maria\DNP\MathLib\PackingClient\obj\Debug\PackingClient.pdb
+D:\GitHub\Clients-SDJ3\PackingClient\bin\Debug\PackingClient.exe.config
+D:\GitHub\Clients-SDJ3\PackingClient\bin\Debug\PackingClient.exe
+D:\GitHub\Clients-SDJ3\PackingClient\bin\Debug\PackingClient.pdb
+D:\GitHub\Clients-SDJ3\PackingClient\obj\Debug\PackingClient.csprojResolveAssemblyReference.cache
+D:\GitHub\Clients-SDJ3\PackingClient\obj\Debug\PackingClient.csproj.CoreCompileInputs.cache
+D:\GitHub\Clients-SDJ3\PackingClient\obj\Debug\PackingClient.exe
+D:\GitHub\Clients-SDJ3\PackingClient\obj\Debug\PackingClient.pdb

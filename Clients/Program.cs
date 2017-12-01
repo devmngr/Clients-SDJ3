@@ -10,12 +10,35 @@ namespace Clients
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter the weight of animal:");
+            IWebServer.WebServerPortTypeClient webServer = new IWebServer.WebServerPortTypeClient();
+            while (true)
+            {
 
-            int weight = Int32.Parse (  Console.ReadLine());
+                Console.WriteLine("Please enter the weight of animal:");
 
-            Console.WriteLine(" The weight of animal is   :" + weight);
+                int weight = Int32.Parse(Console.ReadLine());
 
+                Console.WriteLine(" The weight of animal is   :" + weight);
+
+                Console.WriteLine(" Press: \n0-Cancel\n1-Register animal");
+
+
+                int choice = Int32.Parse(Console.ReadLine());
+
+                switch (choice)
+                {
+
+
+                    case 1:
+                        webServer.registerAnimal(weight);
+                        break;
+
+                    default: break;
+
+                }
+
+
+            }
         }
     }
 }

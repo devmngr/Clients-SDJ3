@@ -10,39 +10,36 @@ namespace PackingClient
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Choose nr 1 for half animal :");
 
-            Console.WriteLine("Choose nr 2 for one type product :");
+            IWebServer.WebServerPortTypeClient webServer = new IWebServer.WebServerPortTypeClient();
 
-            String nr1 = "halfanimal";
-
-            String nr2 = " one type product";
-
-            int  value =  Int32.Parse (Console.ReadLine());
-            
-            switch (value)
-            {
-                case 1:
-                    Console.WriteLine( "The packed product is: " + nr1);
-                    break;
-                case 2:
-                    Console.WriteLine("The packed product is: " + nr2);
-                    break;
-
-                default:
-                    Console.WriteLine("Incorrect number entered");
-                    break;
-            }
+            Console.WriteLine("Enter product ID");
 
 
-            Console.WriteLine("Select a tray where to place the product :");
+            int product = Int32.Parse(Console.ReadLine());
+
+
+            Console.WriteLine("Enter tray number :");
 
 
             int traynumber = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine("The product was palced in the tray number :" + traynumber);
 
-            
+            int choice = Int32.Parse(Console.ReadLine());
+
+            switch (choice)
+            {
+
+
+                case 1:
+                    webServer.addProductContent(product, traynumber);
+                    break;
+
+                default: break;
+
+            }
+
+            Console.WriteLine("Product packed");
 
 
 
